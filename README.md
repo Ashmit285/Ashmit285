@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashmit285
-- 👀 I’m interested in app development, video editing, coding
+- 👀 I’m interested in app development
 - 🌱 I’m currently learning UIKit and SwiftUI
 - 💞️ I’m looking to collaborate on developing apps based on swift
 - 📫 How to reach me ashmitgoel@gmail.com
